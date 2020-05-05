@@ -190,6 +190,5 @@ class _HomeState extends State<Home> {
     } catch (e) {
       return null;
     }
-    //o programa tenta executar algo, se conseguir bem, senao, retorna o erro (try...catch(e))
   }
 }
